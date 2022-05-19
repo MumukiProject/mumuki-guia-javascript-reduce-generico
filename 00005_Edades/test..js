@@ -1,14 +1,14 @@
 describe("", function() {
-  it("Si hacemos sumaDeEdades(personas) en donde personas es un array que contiene a Grace de 6 años, Ada de 19 y Hedy de 34 retorna 59", function() {
+  it("Si hacemos sumaDeEdades(personas) en donde personas es un array que contiene a Gra de 34 años, Ana de 19 y Tito de 6 retorna 59", function() {
       let personas = [
-        {nombre: "Grace", 
-        edad: 6
+        {nombre: "Gra", 
+        edad: 34
         }, 
-        {nombre: "Ada", 
+        {nombre: "Ana", 
         edad: 19
         },
-        {nombre: "Hedy", 
-        edad: 34
+        {nombre: "Tito", 
+        edad: 6
         }
       ];
       let resultado = sumaDeEdades(personas);

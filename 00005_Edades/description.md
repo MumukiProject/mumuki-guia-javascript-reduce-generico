@@ -3,16 +3,16 @@ Queremos calcular la suma de todas las edades que están en una lista de persona
 ```js
 let personas = [
     {
-      nombre: "Grace", 
-      edad: 6
+      nombre: "Gra", 
+      edad: 34
     }, 
     {
-      nombre: "Ada", 
+      nombre: "Ana", 
       edad: 19
     },
     {
-      nombre: "Hedy", 
-      edad: 34
+      nombre: "Tito", 
+      edad: 6
     }
   ];
 
