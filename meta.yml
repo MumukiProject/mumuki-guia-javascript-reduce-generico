@@ -1,0 +1,16 @@
+---
+name: Reduce
+locale: es
+type: learning
+beta: false
+teacher_info: ''
+language: javascript
+id_format: "%05d"
+order:
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+private: false
